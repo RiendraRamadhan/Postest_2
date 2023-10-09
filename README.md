@@ -1,3 +1,4 @@
+![Flowchart Postest 2](https://github.com/RiendraRamadhan/Postest_2/assets/144771979/38c3310b-80f3-4c72-bd36-b21432d5b50e)
 ![Screenshot 2023-10-08 160125](https://github.com/RiendraRamadhan/Postest_2/assets/144771979/4e859c4f-8c82-4187-b3ab-0e69079a482e)
 ![Screenshot 2023-10-08 160347](https://github.com/RiendraRamadhan/Postest_2/assets/144771979/1a0e81c9-f8c2-43bc-b44e-dab3164d1325)
 ![Screenshot 2023-10-08 193701](https://github.com/RiendraRamadhan/Postest_2/assets/144771979/c70e841c-6bce-4836-850c-92d3a579edf5)
